@@ -3,7 +3,7 @@ from typing import Generator
 from groq import Groq
 
 st.set_page_config(page_icon="💬", layout="wide",
-                   page_title="PragyanAI Groq Streamlit APP")
+                   page_title="Prasad Streamlit APP")
 # Display the logo at the top of the page
 st.title("Prasad")
 st.divider()  # 👈 Draws a horizontal rule
